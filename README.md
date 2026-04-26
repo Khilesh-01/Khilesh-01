@@ -51,6 +51,14 @@ Aspiring software developer with a strong foundation in Android, backend, and we
     <td align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khilesh-01&langs_count=10&title_color=ffffff&text_color=f97316&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&cache_seconds=1800&v=1" />
     </td>
+    <td>
+      <p>
+        <img width="300px" src="https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzcxODcwOTMsIm5iZiI6MTc3NzE4Njc5MywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzODYtODczNjA5NDgtN2I5Mi00ODUyLTkxZjctZmY2MmRkYjhmY2Q0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI2VDA2NTk1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmODAzYzkzOTdlNmYyNWQ5ZDIzZDhjYTU3NzZlNDhiNDM0ZDYyNzg2M2RkNjE2NmQxMTc3ZTliOGYzZDk3YmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ruhZ6S1KFHgYvIqPgluZSb9mopgzaq9lT6Nl4XHY92w" alt="Funny GIF" width="250" align="right"/>
+      </p>
+      <p>
+        <img width="300px" src="https://private-user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzcxODcwOTMsIm5iZiI6MTc3NzE4Njc5MywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU0OTctNDlhYmQzY2EtYjA0OC00ZjI3LWI3ZTAtZWE2YTdiMTcyYWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI2VDA2NTk1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2Y2E2OThjMmIxMjk2ODVkOWEwYmYxOTFiZTJkZGQ1NGZlMDVkY2U2Mjc3MTllM2MwYjBiNTZjNjUxZDAzMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.tMtkYYAMt-bMXjzSCZAtYwJD6tK6rU_8rLCGpzU1IcA" />
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -88,7 +96,6 @@ Aspiring software developer with a strong foundation in Android, backend, and we
   </tr>
 </table>
 
-### ✍️ Random Dev Quote
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
