@@ -42,14 +42,14 @@ Aspiring software developer with a strong foundation in Android, backend, and we
   <tr>
     <td align="center" style="border: none;">
       <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=Khilesh-01&show_icons=true&count_private=true&title_color=ffffff&text_color=f97316&icon_color=64748b&bg_color=1c1917&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Khilesh-01&show_icons=true&count_private=true&title_color=ffffff&text_color=f97316&icon_color=64748b&bg_color=1c1917&hide_border=true&cache_seconds=1800&v=1" />
       </p>
       <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khilesh-01&stroke=f97316&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=f97316&currStreakLabel=ffffff&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khilesh-01&stroke=f97316&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=f97316&currStreakLabel=ffffff&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true&cache_seconds=1800&v=1" />
       </p>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khilesh-01&langs_count=10&title_color=ffffff&text_color=f97316&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khilesh-01&langs_count=10&title_color=ffffff&text_color=f97316&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&cache_seconds=1800&v=1" />
     </td>
   </tr>
 </table>
